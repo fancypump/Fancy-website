@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "kind": "html",
+  "title": "Fancy Pump — Complete Website",
+  "entry": "fancypump-redesign.html",
+  "renderer": "html",
+  "status": "complete",
+  "exports": [
+    "html",
+    "pdf",
+    "zip"
+  ],
+  "createdAt": "2026-05-04T09:15:33.466Z",
+  "updatedAt": "2026-05-04T09:15:33.504Z",
+  "sourceSkillId": "blog-post",
+  "metadata": {
+    "identifier": "fancypump-redesign",
+    "artifactType": "text/html",
+    "inferred": false
+  }
+}
