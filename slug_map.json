@@ -1,0 +1,632 @@
+{
+  "qb_peripheral_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce45cc1aec3.png",
+    "img_path": "/upload/info/20250310/67ce45cc1aec3.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/qb_peripheral_pump.html",
+    "cat": "domestic"
+  },
+  "fc_centrifugal_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce45e3d699b.png",
+    "img_path": "/upload/info/20250310/67ce45e3d699b.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/fc_centrifugal_pump.html",
+    "cat": "domestic"
+  },
+  "fjw1_jet_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce45f82a9cc.png",
+    "img_path": "/upload/info/20250310/67ce45f82a9cc.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/fjw1_jet_pump.html",
+    "cat": "domestic"
+  },
+  "fjw2_jet_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce4c911c50c.png",
+    "img_path": "/upload/info/20250310/67ce4c911c50c.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/fjw2_jet_pump.html",
+    "cat": "domestic"
+  },
+  "fjw3_jet_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce46294ca11.png",
+    "img_path": "/upload/info/20250310/67ce46294ca11.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/fjw3_jet_pump.html",
+    "cat": "domestic"
+  },
+  "fja_jet_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce463d9e259.png",
+    "img_path": "/upload/info/20250310/67ce463d9e259.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/fja_jet_pump.html",
+    "cat": "domestic"
+  },
+  "fjc_aisi304_jet_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce4655cfadb.png",
+    "img_path": "/upload/info/20250310/67ce4655cfadb.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/fjc_aisi304_jet_pump.html",
+    "cat": "domestic"
+  },
+  "fh_centrifugal_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce466d619fd.png",
+    "img_path": "/upload/info/20250310/67ce466d619fd.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/fh_centrifugal_pump.html",
+    "cat": "domestic"
+  },
+  "f2c_double_impeller_centrifugal_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce46867d0c2.png",
+    "img_path": "/upload/info/20250310/67ce46867d0c2.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/f2c_double_impeller_centrifugal_pump.html",
+    "cat": "domestic"
+  },
+  "wzb_self-priming_peripheral_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce469f3439c.png",
+    "img_path": "/upload/info/20250310/67ce469f3439c.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/wzb_self-priming_peripheral_pump.html",
+    "cat": "domestic"
+  },
+  "352": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce46b6502e3.png",
+    "img_path": "/upload/info/20250310/67ce46b6502e3.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/352.html",
+    "cat": "domestic"
+  },
+  "353": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce46ce99a0d.png",
+    "img_path": "/upload/info/20250310/67ce46ce99a0d.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/353.html",
+    "cat": "domestic"
+  },
+  "fhs_self-priming_centrifugal_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce4c56f1ac8.png",
+    "img_path": "/upload/info/20250310/67ce4c56f1ac8.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/fhs_self-priming_centrifugal_pump.html",
+    "cat": "domestic"
+  },
+  "fpw_automatic_booster_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce46f5e90ce.png",
+    "img_path": "/upload/info/20250310/67ce46f5e90ce.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/fpw_automatic_booster_pump.html",
+    "cat": "domestic"
+  },
+  "fpa_automatic_booster_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce4708edb49.png",
+    "img_path": "/upload/info/20250310/67ce4708edb49.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/fpa_automatic_booster_pump.html",
+    "cat": "domestic"
+  },
+  "fps_automatic_booster_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce472569e03.png",
+    "img_path": "/upload/info/20250310/67ce472569e03.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/fps_automatic_booster_pump.html",
+    "cat": "domestic"
+  },
+  "354": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce4738c4594.png",
+    "img_path": "/upload/info/20250310/67ce4738c4594.png",
+    "url": "https://www.fancypump.com/en-us/domestic_pump_5/354.html",
+    "cat": "domestic"
+  },
+  "cdm_cdmf_multistage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce3df12aeac.png",
+    "img_path": "/upload/info/20250310/67ce3df12aeac.png",
+    "url": "https://www.fancypump.com/en-us/commercial_pump_2/cdm_cdmf_multistage_pump.html",
+    "cat": "commercial"
+  },
+  "cdl_cdlf_vertical_multistage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce3e837b0b2.png",
+    "img_path": "/upload/info/20250310/67ce3e837b0b2.png",
+    "url": "https://www.fancypump.com/en-us/commercial_pump_2/cdl_cdlf_vertical_multistage_pump.html",
+    "cat": "commercial"
+  },
+  "fv_vertical_multistage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce3edac4327.png",
+    "img_path": "/upload/info/20250310/67ce3edac4327.png",
+    "url": "https://www.fancypump.com/en-us/commercial_pump_2/fv_vertical_multistage_pump.html",
+    "cat": "commercial"
+  },
+  "cm_horizontal_multistage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce3ef27380e.png",
+    "img_path": "/upload/info/20250310/67ce3ef27380e.png",
+    "url": "https://www.fancypump.com/en-us/commercial_pump_2/cm_horizontal_multistage_pump.html",
+    "cat": "commercial"
+  },
+  "ms_horizontal_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250305/67c7bcaa45a04.png",
+    "img_path": "/upload/info/20250305/67c7bcaa45a04.png",
+    "url": "https://www.fancypump.com/en-us/commercial_pump_2/ms_horizontal_pump.html",
+    "cat": "commercial"
+  },
+  "chl_horizontal_multistage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce3f1cb87e5.png",
+    "img_path": "/upload/info/20250310/67ce3f1cb87e5.png",
+    "url": "https://www.fancypump.com/en-us/commercial_pump_2/chl_horizontal_multistage_pump.html",
+    "cat": "commercial"
+  },
+  "chlf_horizontal_multistage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce3f306ceed.png",
+    "img_path": "/upload/info/20250310/67ce3f306ceed.png",
+    "url": "https://www.fancypump.com/en-us/commercial_pump_2/chlf_horizontal_multistage_pump.html",
+    "cat": "commercial"
+  },
+  "fz_stainless_steel_standard_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce3f4c779f9.png",
+    "img_path": "/upload/info/20250310/67ce3f4c779f9.png",
+    "url": "https://www.fancypump.com/en-us/commercial_pump_2/fz_stainless_steel_standard_pump.html",
+    "cat": "commercial"
+  },
+  "fwo_open_impeller_ss304_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce3f5eb7563.png",
+    "img_path": "/upload/info/20250310/67ce3f5eb7563.png",
+    "url": "https://www.fancypump.com/en-us/commercial_pump_2/fwo_open_impeller_ss304_pump.html",
+    "cat": "commercial"
+  },
+  "fwc_close_impeller_ss304_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce3f725d0dc.png",
+    "img_path": "/upload/info/20250310/67ce3f725d0dc.png",
+    "url": "https://www.fancypump.com/en-us/commercial_pump_2/fwc_close_impeller_ss304_pump.html",
+    "cat": "commercial"
+  },
+  "fdx_horizontal_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce3f8b18b40.png",
+    "img_path": "/upload/info/20250310/67ce3f8b18b40.png",
+    "url": "https://www.fancypump.com/en-us/commercial_pump_2/fdx_horizontal_pump.html",
+    "cat": "commercial"
+  },
+  "2fdx_double_impeller_ss304_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce3f9c81c00.png",
+    "img_path": "/upload/info/20250310/67ce3f9c81c00.png",
+    "url": "https://www.fancypump.com/en-us/commercial_pump_2/2fdx_double_impeller_ss304_pump.html",
+    "cat": "commercial"
+  },
+  "pun_centrifugal_circulation_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce5019cd654.png",
+    "img_path": "/upload/info/20250310/67ce5019cd654.png",
+    "url": "https://www.fancypump.com/en-us/circulation_pump_4/pun_centrifugal_circulation_pump.html",
+    "cat": "circulation"
+  },
+  "ph_inline_circulation_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce502e0d63b.png",
+    "img_path": "/upload/info/20250310/67ce502e0d63b.png",
+    "url": "https://www.fancypump.com/en-us/circulation_pump_4/ph_inline_circulation_pump.html",
+    "cat": "circulation"
+  },
+  "mhi_multistage_circulation_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce5044cf38c.png",
+    "img_path": "/upload/info/20250310/67ce5044cf38c.png",
+    "url": "https://www.fancypump.com/en-us/circulation_pump_4/mhi_multistage_circulation_pump.html",
+    "cat": "circulation"
+  },
+  "mhil_multistage_circulation_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce505f175e2.png",
+    "img_path": "/upload/info/20250310/67ce505f175e2.png",
+    "url": "https://www.fancypump.com/en-us/circulation_pump_4/mhil_multistage_circulation_pump.html",
+    "cat": "circulation"
+  },
+  "ipl_inline_circulation_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce507f865d2.png",
+    "img_path": "/upload/info/20250310/67ce507f865d2.png",
+    "url": "https://www.fancypump.com/en-us/circulation_pump_4/ipl_inline_circulation_pump.html",
+    "cat": "circulation"
+  },
+  "fb_three_speed_circulation_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce532d6faf0.png",
+    "img_path": "/upload/info/20250310/67ce532d6faf0.png",
+    "url": "https://www.fancypump.com/en-us/circulation_pump_4/fb_three_speed_circulation_pump.html",
+    "cat": "circulation"
+  },
+  "fba_automatic_circulation_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce50b83cb42.png",
+    "img_path": "/upload/info/20250310/67ce50b83cb42.png",
+    "url": "https://www.fancypump.com/en-us/circulation_pump_4/fba_automatic_circulation_pump.html",
+    "cat": "circulation"
+  },
+  "fbg_single_phase_single_speed_circulation_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce50cd0f9bf.png",
+    "img_path": "/upload/info/20250310/67ce50cd0f9bf.png",
+    "url": "https://www.fancypump.com/en-us/circulation_pump_4/fbg_single_phase_single_speed_circulation_pump.html",
+    "cat": "circulation"
+  },
+  "fbt": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce521de0e66.png",
+    "img_path": "/upload/info/20250310/67ce521de0e66.png",
+    "url": "https://www.fancypump.com/en-us/circulation_pump_4/fbt.html",
+    "cat": "circulation"
+  },
+  "355": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce50fcdb3a4.png",
+    "img_path": "/upload/info/20250310/67ce50fcdb3a4.png",
+    "url": "https://www.fancypump.com/en-us/circulation_pump_4/355.html",
+    "cat": "circulation"
+  },
+  "356": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce511120cde.png",
+    "img_path": "/upload/info/20250310/67ce511120cde.png",
+    "url": "https://www.fancypump.com/en-us/circulation_pump_4/356.html",
+    "cat": "circulation"
+  },
+  "357": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce51d3e101a.png",
+    "img_path": "/upload/info/20250310/67ce51d3e101a.png",
+    "url": "https://www.fancypump.com/en-us/circulation_pump_4/357.html",
+    "cat": "circulation"
+  },
+  "358": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce513e0f72b.png",
+    "img_path": "/upload/info/20250310/67ce513e0f72b.png",
+    "url": "https://www.fancypump.com/en-us/circulation_pump_4/358.html",
+    "cat": "circulation"
+  },
+  "359": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ce51512a10e.png",
+    "img_path": "/upload/info/20250310/67ce51512a10e.png",
+    "url": "https://www.fancypump.com/en-us/circulation_pump_4/359.html",
+    "cat": "circulation"
+  },
+  "ftd_inline_circulation_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb3a406b79.png",
+    "img_path": "/upload/info/20250310/67ceb3a406b79.png",
+    "url": "https://www.fancypump.com/en-us/industrial_pump_3/ftd_inline_circulation_pump.html",
+    "cat": "industrial"
+  },
+  "fst_close_coupled_centrifugal_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb3f86e438.png",
+    "img_path": "/upload/info/20250310/67ceb3f86e438.png",
+    "url": "https://www.fancypump.com/en-us/industrial_pump_3/fst_close_coupled_centrifugal_pump.html",
+    "cat": "industrial"
+  },
+  "fw_same_port_centrifugal_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb40cc3943.png",
+    "img_path": "/upload/info/20250310/67ceb40cc3943.png",
+    "url": "https://www.fancypump.com/en-us/industrial_pump_3/fw_same_port_centrifugal_pump.html",
+    "cat": "industrial"
+  },
+  "fs_end_suction_centrifugal_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb437814b0.png",
+    "img_path": "/upload/info/20250310/67ceb437814b0.png",
+    "url": "https://www.fancypump.com/en-us/industrial_pump_3/fs_end_suction_centrifugal_pump.html",
+    "cat": "industrial"
+  },
+  "fcd_thread_port_centrifugal_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb45d5b590.png",
+    "img_path": "/upload/info/20250310/67ceb45d5b590.png",
+    "url": "https://www.fancypump.com/en-us/industrial_pump_3/fcd_thread_port_centrifugal_pump.html",
+    "cat": "industrial"
+  },
+  "f2cd_double_impeller_centrifugal_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb48d7e8b8.png",
+    "img_path": "/upload/info/20250310/67ceb48d7e8b8.png",
+    "url": "https://www.fancypump.com/en-us/industrial_pump_3/f2cd_double_impeller_centrifugal_pump.html",
+    "cat": "industrial"
+  },
+  "ft_vertical_inline_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb4af4e80b.png",
+    "img_path": "/upload/info/20250310/67ceb4af4e80b.png",
+    "url": "https://www.fancypump.com/en-us/industrial_pump_3/ft_vertical_inline_pump.html",
+    "cat": "industrial"
+  },
+  "fsp_self-priming_bare_shaft_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb4d31bb09.png",
+    "img_path": "/upload/info/20250310/67ceb4d31bb09.png",
+    "url": "https://www.fancypump.com/en-us/industrial_pump_3/fsp_self-priming_bare_shaft_pump.html",
+    "cat": "industrial"
+  },
+  "fsc_double_suction_split_case_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb4f84b6ef.png",
+    "img_path": "/upload/info/20250310/67ceb4f84b6ef.png",
+    "url": "https://www.fancypump.com/en-us/industrial_pump_3/fsc_double_suction_split_case_pump.html",
+    "cat": "industrial"
+  },
+  "fedj_fire_fighting_system": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb6572970f.png",
+    "img_path": "/upload/info/20250310/67ceb6572970f.png",
+    "url": "https://www.fancypump.com/en-us/fire_pump_9/fedj_fire_fighting_system.html",
+    "cat": "firefight"
+  },
+  "ye3_electric_motor_tefc_type": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb687cb9b5.png",
+    "img_path": "/upload/info/20250310/67ceb687cb9b5.png",
+    "url": "https://www.fancypump.com/en-us/fire_pump_9/ye3_electric_motor_tefc_type.html",
+    "cat": "firefight"
+  },
+  "fd_diesel_engine_for_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb6b20e77c.png",
+    "img_path": "/upload/info/20250310/67ceb6b20e77c.png",
+    "url": "https://www.fancypump.com/en-us/fire_pump_9/fd_diesel_engine_for_pump.html",
+    "cat": "firefight"
+  },
+  "fst": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb6c685a27.png",
+    "img_path": "/upload/info/20250310/67ceb6c685a27.png",
+    "url": "https://www.fancypump.com/en-us/fire_pump_9/fst.html",
+    "cat": "firefight"
+  },
+  "fs": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb6f13c0cd.png",
+    "img_path": "/upload/info/20250310/67ceb6f13c0cd.png",
+    "url": "https://www.fancypump.com/en-us/fire_pump_9/fs.html",
+    "cat": "firefight"
+  },
+  "fsm": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb74d4614e.png",
+    "img_path": "/upload/info/20250310/67ceb74d4614e.png",
+    "url": "https://www.fancypump.com/en-us/fire_pump_9/fsm.html",
+    "cat": "firefight"
+  },
+  "fsd": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb795d7446.png",
+    "img_path": "/upload/info/20250310/67ceb795d7446.png",
+    "url": "https://www.fancypump.com/en-us/fire_pump_9/fsd.html",
+    "cat": "firefight"
+  },
+  "cdl": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb7cc5de18.png",
+    "img_path": "/upload/info/20250310/67ceb7cc5de18.png",
+    "url": "https://www.fancypump.com/en-us/fire_pump_9/cdl.html",
+    "cat": "firefight"
+  },
+  "fv": {
+    "img": "https://www.fancypump.com/upload/info/20250310/67ceb7efb0ad5.png",
+    "img_path": "/upload/info/20250310/67ceb7efb0ad5.png",
+    "url": "https://www.fancypump.com/en-us/fire_pump_9/fv.html",
+    "cat": "firefight"
+  },
+  "wq_submersible_sewage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb44013938.png",
+    "img_path": "/upload/info/20250311/67cfb44013938.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/wq_submersible_sewage_pump.html",
+    "cat": "submersible"
+  },
+  "wqb_submersible_sewage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb46c8151a.png",
+    "img_path": "/upload/info/20250311/67cfb46c8151a.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/wqb_submersible_sewage_pump.html",
+    "cat": "submersible"
+  },
+  "wqas_cutting_sewage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb48b68f23.png",
+    "img_path": "/upload/info/20250311/67cfb48b68f23.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/wqas_cutting_sewage_pump.html",
+    "cat": "submersible"
+  },
+  "wqv_vortex_cutting_submersible_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb4a53c14b.png",
+    "img_path": "/upload/info/20250311/67cfb4a53c14b.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/wqv_vortex_cutting_submersible_pump.html",
+    "cat": "submersible"
+  },
+  "wqs_stainless_sewage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb4c133f8e.png",
+    "img_path": "/upload/info/20250311/67cfb4c133f8e.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/wqs_stainless_sewage_pump.html",
+    "cat": "submersible"
+  },
+  "wqa_new_submersible_sewage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb4d8a87e8.png",
+    "img_path": "/upload/info/20250311/67cfb4d8a87e8.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/wqa_new_submersible_sewage_pump.html",
+    "cat": "submersible"
+  },
+  "wqqg_cutting_sewage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb61d8981e.png",
+    "img_path": "/upload/info/20250311/67cfb61d8981e.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/wqqg_cutting_sewage_pump.html",
+    "cat": "submersible"
+  },
+  "kbz_d_s_submersible_slurry_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb689bd11b.png",
+    "img_path": "/upload/info/20250311/67cfb689bd11b.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/kbz_d_s_submersible_slurry_pump.html",
+    "cat": "submersible"
+  },
+  "qxn_submersible_drainage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb67485f85.png",
+    "img_path": "/upload/info/20250311/67cfb67485f85.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/qxn_submersible_drainage_pump.html",
+    "cat": "submersible"
+  },
+  "qdx_qdxs_submersible_water_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb6a2b393f.png",
+    "img_path": "/upload/info/20250311/67cfb6a2b393f.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/qdx_qdxs_submersible_water_pump.html",
+    "cat": "submersible"
+  },
+  "qd_qy_oil_immersed_submersible_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb6e14cc99.png",
+    "img_path": "/upload/info/20250311/67cfb6e14cc99.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/qd_qy_oil_immersed_submersible_pump.html",
+    "cat": "submersible"
+  },
+  "v_vn_vd_submersible_sewage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb6f51d5b9.png",
+    "img_path": "/upload/info/20250311/67cfb6f51d5b9.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/v_vn_vd_submersible_sewage_pump.html",
+    "cat": "submersible"
+  },
+  "spa_submersible_water_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb70cb4ae5.png",
+    "img_path": "/upload/info/20250311/67cfb70cb4ae5.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/spa_submersible_water_pump.html",
+    "cat": "submersible"
+  },
+  "hs_submersible_water_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb7274d526.png",
+    "img_path": "/upload/info/20250311/67cfb7274d526.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/hs_submersible_water_pump.html",
+    "cat": "submersible"
+  },
+  "spl_plastic_submersible_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb73ee82fa.png",
+    "img_path": "/upload/info/20250311/67cfb73ee82fa.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/spl_plastic_submersible_pump.html",
+    "cat": "submersible"
+  },
+  "sps_stainless_submersible_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb75810aee.png",
+    "img_path": "/upload/info/20250311/67cfb75810aee.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/sps_stainless_submersible_pump.html",
+    "cat": "submersible"
+  },
+  "qck_stainless_submersible_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb77537765.png",
+    "img_path": "/upload/info/20250311/67cfb77537765.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/qck_stainless_submersible_pump.html",
+    "cat": "submersible"
+  },
+  "vx_submersible_sewage_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb7880ce57.png",
+    "img_path": "/upload/info/20250311/67cfb7880ce57.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/vx_submersible_sewage_pump.html",
+    "cat": "submersible"
+  },
+  "l_large_volume_submersible_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb7a18da12.png",
+    "img_path": "/upload/info/20250311/67cfb7a18da12.png",
+    "url": "https://www.fancypump.com/en-us/submersible_pump_6/l_large_volume_submersible_pump.html",
+    "cat": "submersible"
+  },
+  "sd_deep_well_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb9b501a22.png",
+    "img_path": "/upload/info/20250311/67cfb9b501a22.png",
+    "url": "https://www.fancypump.com/en-us/borehole_pump_7/sd_deep_well_pump.html",
+    "cat": "borehole"
+  },
+  "sp_stainless_deep_well_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfb9f9cf9bc.png",
+    "img_path": "/upload/info/20250311/67cfb9f9cf9bc.png",
+    "url": "https://www.fancypump.com/en-us/borehole_pump_7/sp_stainless_deep_well_pump.html",
+    "cat": "borehole"
+  },
+  "ys_yc_submersible_motor": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfba18b7250.png",
+    "img_path": "/upload/info/20250311/67cfba18b7250.png",
+    "url": "https://www.fancypump.com/en-us/borehole_pump_7/ys_yc_submersible_motor.html",
+    "cat": "borehole"
+  },
+  "sc_submersible_water_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfba35b75cb.png",
+    "img_path": "/upload/info/20250311/67cfba35b75cb.png",
+    "url": "https://www.fancypump.com/en-us/borehole_pump_7/sc_submersible_water_pump.html",
+    "cat": "borehole"
+  },
+  "qg_screw_deep_well_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfba4fbe195.png",
+    "img_path": "/upload/info/20250311/67cfba4fbe195.png",
+    "url": "https://www.fancypump.com/en-us/borehole_pump_7/qg_screw_deep_well_pump.html",
+    "cat": "borehole"
+  },
+  "sk_peripheral_submersible_water_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfba6d7f523.png",
+    "img_path": "/upload/info/20250311/67cfba6d7f523.png",
+    "url": "https://www.fancypump.com/en-us/borehole_pump_7/sk_peripheral_submersible_water_pump.html",
+    "cat": "borehole"
+  },
+  "sv_peripheral_submersible_water_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbb50c374f.png",
+    "img_path": "/upload/info/20250311/67cfbb50c374f.png",
+    "url": "https://www.fancypump.com/en-us/borehole_pump_7/sv_peripheral_submersible_water_pump.html",
+    "cat": "borehole"
+  },
+  "sqg_solar_borehole_screw_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbab76931d.png",
+    "img_path": "/upload/info/20250311/67cfbab76931d.png",
+    "url": "https://www.fancypump.com/en-us/borehole_pump_7/sqg_solar_borehole_screw_pump.html",
+    "cat": "borehole"
+  },
+  "ssd_solar_borehole_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbad3237d1.png",
+    "img_path": "/upload/info/20250311/67cfbad3237d1.png",
+    "url": "https://www.fancypump.com/en-us/borehole_pump_7/ssd_solar_borehole_pump.html",
+    "cat": "borehole"
+  },
+  "ssp_solar_borehole_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbaecdc47f.png",
+    "img_path": "/upload/info/20250311/67cfbaecdc47f.png",
+    "url": "https://www.fancypump.com/en-us/borehole_pump_7/ssp_solar_borehole_pump.html",
+    "cat": "borehole"
+  },
+  "ssp_swimming_pool_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbd3800501.png",
+    "img_path": "/upload/info/20250311/67cfbd3800501.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/ssp_swimming_pool_pump.html",
+    "cat": "pool"
+  },
+  "smp_swimming_pool_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbd5ba0706.png",
+    "img_path": "/upload/info/20250311/67cfbd5ba0706.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/smp_swimming_pool_pump.html",
+    "cat": "pool"
+  },
+  "stp_swimming_pool_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbd7145dc7.png",
+    "img_path": "/upload/info/20250311/67cfbd7145dc7.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/stp_swimming_pool_pump.html",
+    "cat": "pool"
+  },
+  "sup_swimming_pool_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbd93acff2.png",
+    "img_path": "/upload/info/20250311/67cfbd93acff2.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/sup_swimming_pool_pump.html",
+    "cat": "pool"
+  },
+  "swim_swimming_pool_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbdb1c8641.png",
+    "img_path": "/upload/info/20250311/67cfbdb1c8641.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/swim_swimming_pool_pump.html",
+    "cat": "pool"
+  },
+  "swp_swimming_pool_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbdd01b2cd.png",
+    "img_path": "/upload/info/20250311/67cfbdd01b2cd.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/swp_swimming_pool_pump.html",
+    "cat": "pool"
+  },
+  "sfp_swimming_pool_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbdfc081b7.png",
+    "img_path": "/upload/info/20250311/67cfbdfc081b7.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/sfp_swimming_pool_pump.html",
+    "cat": "pool"
+  },
+  "sfe_swimming_pool_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbe1aae211.png",
+    "img_path": "/upload/info/20250311/67cfbe1aae211.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/sfe_swimming_pool_pump.html",
+    "cat": "pool"
+  },
+  "seq_weq_swimming_pool_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbe3700f50.png",
+    "img_path": "/upload/info/20250311/67cfbe3700f50.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/seq_weq_swimming_pool_pump.html",
+    "cat": "pool"
+  },
+  "slp_wlp_swimming_pool_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbe5aa7012.png",
+    "img_path": "/upload/info/20250311/67cfbe5aa7012.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/slp_wlp_swimming_pool_pump.html",
+    "cat": "pool"
+  },
+  "fzs_swimming_pool_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfd1cd2a977.png",
+    "img_path": "/upload/info/20250311/67cfd1cd2a977.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/fzs_swimming_pool_pump.html",
+    "cat": "pool"
+  },
+  "wtb_swimming_pool_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbe74eb76b.png",
+    "img_path": "/upload/info/20250311/67cfbe74eb76b.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/wtb_swimming_pool_pump.html",
+    "cat": "pool"
+  },
+  "wpp_hydromassage_bathtub_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbe9147973.png",
+    "img_path": "/upload/info/20250311/67cfbe9147973.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/wpp_hydromassage_bathtub_pump.html",
+    "cat": "pool"
+  },
+  "wtc_hydromassage_bathtub_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbeb98e2d4.png",
+    "img_path": "/upload/info/20250311/67cfbeb98e2d4.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/wtc_hydromassage_bathtub_pump.html",
+    "cat": "pool"
+  },
+  "lp_spa_circulation_pump": {
+    "img": "https://www.fancypump.com/upload/info/20250311/67cfbed0b2f45.png",
+    "img_path": "/upload/info/20250311/67cfbed0b2f45.png",
+    "url": "https://www.fancypump.com/en-us/pool_pump_8/lp_spa_circulation_pump.html",
+    "cat": "pool"
+  }
+}

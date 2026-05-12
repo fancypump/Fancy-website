@@ -5,17 +5,41 @@
 document.addEventListener('DOMContentLoaded', function() {
 
   /* --- Mobile Nav Toggle --- */
-  const navToggle = document.querySelector('.nav-toggle');
-  const navList = document.querySelector('.nav-main__list');
+  var navToggle = document.querySelector('.nav-toggle');
+  var navList = document.querySelector('.nav-main__list');
   if (navToggle && navList) {
-    navToggle.addEventListener('click', function() {
-      navList.classList.toggle('nav-main__list--open');
-      navToggle.textContent = navList.classList.contains('nav-main__list--open') ? '✕' : '☰';
+    navToggle.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      var isShown = navList.classList.toggle('nav-main__list--open');
+      navToggle.textContent = isShown ? '✕' : '☰';
     });
+
+    /* Products ▾ toggle on mobile */
+    navList.querySelectorAll('a').forEach(function(link) {
+      link.addEventListener('click', function(e) {
+        if (this.closest('.nav-dropdown') && (!this.getAttribute('href') || this.getAttribute('href') === '#')) {
+          if (window.innerWidth <= 768) {
+            e.preventDefault();
+            this.parentElement.classList.toggle('nav-dropdown--open');
+          }
+          return;
+        }
+        /* Regular nav link — close menu on mobile */
+        if (window.innerWidth <= 768) {
+          navList.classList.remove('nav-main__list--open');
+          navToggle.textContent = '☰';
+        }
+      });
+    });
+
+    /* Close menu on backdrop click */
     document.addEventListener('click', function(e) {
-      if (!e.target.closest('.nav-main') && navList.classList.contains('nav-main__list--open')) {
-        navList.classList.remove('nav-main__list--open');
-        navToggle.textContent = '☰';
+      if (navList.classList.contains('nav-main__list--open')) {
+        if (!navList.contains(e.target) && !navToggle.contains(e.target)) {
+          navList.classList.remove('nav-main__list--open');
+          navToggle.textContent = '☰';
+        }
       }
     });
   }
@@ -106,6 +130,17 @@ document.addEventListener('DOMContentLoaded', function() {
   document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape') closeLightbox();
   });
+
+  /* --- Prevent tel: link error on desktop (no phone handler) --- */
+  var isMobile = /Android|iPhone|iPad|iPod|webOS|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+  if (!isMobile) {
+    document.querySelectorAll('a[href^="tel:"]').forEach(function(link) {
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopImmediatePropagation();
+      }, true);
+    });
+  }
 
   /* --- Scroll Animations --- */
   const observer = new IntersectionObserver(function(entries) {

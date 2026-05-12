@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "kind": "html",
+  "title": "Fancy Pump — Footer Social Icons Updated",
+  "entry": "fancypump-footer-icons.html",
+  "renderer": "html",
+  "status": "complete",
+  "exports": [
+    "html",
+    "pdf",
+    "zip"
+  ],
+  "createdAt": "2026-05-12T03:19:49.320Z",
+  "updatedAt": "2026-05-12T03:19:49.327Z",
+  "sourceSkillId": "blog-post",
+  "metadata": {
+    "identifier": "fancypump-footer-icons",
+    "artifactType": "text/html",
+    "inferred": false
+  }
+}

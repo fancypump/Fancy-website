@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "kind": "html",
+  "title": "Fancy Pump — Mobile Nav Fix Applied",
+  "entry": "fancypump-mobile-fix.html",
+  "renderer": "html",
+  "status": "complete",
+  "exports": [
+    "html",
+    "pdf",
+    "zip"
+  ],
+  "createdAt": "2026-05-12T02:16:06.442Z",
+  "updatedAt": "2026-05-12T02:16:06.483Z",
+  "sourceSkillId": "blog-post",
+  "metadata": {
+    "identifier": "fancypump-mobile-fix",
+    "artifactType": "text/html",
+    "inferred": false
+  }
+}

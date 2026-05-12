@@ -291,6 +291,15 @@ p + p { margin-top: var(--space-md); }
   color: var(--accent);
   font-weight: 600;
 }
+.nav-main__link-icon {
+  font-size: 1rem;
+}
+/* Hide phone nav item on desktop — shows only in mobile slide-out menu */
+@media (min-width: 769px) {
+  .nav-main__list li:has(a[href^="tel:"]) {
+    display: none;
+  }
+}
 
 /* Dropdown */
 .nav-dropdown {
@@ -378,6 +387,7 @@ p + p { margin-top: var(--space-md); }
   font-size: 1.5rem;
   cursor: pointer;
   padding: var(--space-sm);
+  touch-action: manipulation;
 }
 
 /* --- Page Header / Banner --- */
@@ -1017,8 +1027,8 @@ p + p { margin-top: var(--space-md); }
   gap: var(--space-sm);
 }
 .footer-social a {
-  width: 36px;
-  height: 36px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   background: oklch(100% 0 0 / 0.06);
   display: flex;
@@ -1027,12 +1037,19 @@ p + p { margin-top: var(--space-md); }
   color: oklch(70% 0.02 260);
   text-decoration: none;
   transition: all var(--transition);
-  font-size: 0.9rem;
+}
+.footer-social a svg {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
 }
 .footer-social a:hover {
-  background: var(--accent);
   color: #fff;
 }
+.footer-social__fb:hover { background: #1877F2; }
+.footer-social__ig:hover { background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); }
+.footer-social__tw:hover { background: #000; }
+.footer-social__wa:hover { background: #25D366; }
 
 /* --- Product Detail --- */
 .prod-detail {
@@ -1343,8 +1360,8 @@ textarea.form-control {
 /* --- Inquiry Float --- */
 .inquiry-float {
   position: fixed;
-  right: var(--space-lg);
-  bottom: var(--space-lg);
+  right: 20px;
+  bottom: 200px;
   z-index: 999;
   display: flex;
   flex-direction: column;
@@ -1359,8 +1376,7 @@ textarea.form-control {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1.2rem;
-  box-shadow: var(--shadow-lg);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   transition: all var(--transition);
   color: #fff;
   text-decoration: none;
@@ -1369,10 +1385,10 @@ textarea.form-control {
   background: #25D366;
 }
 .inquiry-float__btn--email {
-  background: var(--accent);
+  background: #2563EB;
 }
 .inquiry-float__btn--inquiry {
-  background: var(--accent);
+  background: #FF6B35;
 }
 .inquiry-float__btn:hover {
   transform: scale(1.1);
@@ -1404,8 +1420,8 @@ textarea.form-control {
 /* --- Back to Top --- */
 .back-to-top {
   position: fixed;
-  right: var(--space-lg);
-  bottom: 180px;
+  right: 20px;
+  bottom: 20px;
   z-index: 999;
   width: 44px;
   height: 44px;
@@ -1693,25 +1709,35 @@ textarea.form-control {
   h3 { font-size: 1.35rem; }
 
   /* Nav */
+  .nav-main {
+    position: relative;
+    z-index: 1002;
+  }
   .nav-main__list {
-    display: none;
     position: fixed;
     top: var(--header-height);
     left: 0;
     right: 0;
-    bottom: 0;
+    bottom: auto;
+    z-index: 9999;
     background: var(--navy-dark);
     flex-direction: column;
     padding: var(--space-lg);
     gap: var(--space-xs);
     overflow-y: auto;
+    height: 0;
+    opacity: 0;
+    pointer-events: none;
   }
   .nav-main__list--open {
-    display: flex;
+    height: calc(100vh - var(--header-height));
+    opacity: 1;
+    pointer-events: auto;
   }
   .nav-main__link {
     font-size: 1.05rem;
     padding: 0.8rem 1rem;
+    color: oklch(90% 0.01 260);
   }
   .nav-dropdown__menu {
     position: static;
@@ -1730,11 +1756,23 @@ textarea.form-control {
     background: oklch(100% 0 0 / 0.05);
     color: #fff;
   }
-  .nav-dropdown:hover .nav-dropdown__menu {
+  .nav-dropdown:hover .nav-dropdown__menu,
+  .nav-dropdown--open .nav-dropdown__menu {
     display: grid;
   }
   .nav-toggle {
     display: block;
+    position: relative;
+    z-index: 1001;
+  }
+  .header-phone {
+    font-size: 0;
+    padding-left: 0;
+    border-left: none;
+    margin-left: 0;
+  }
+  .header-phone__icon {
+    font-size: 1.2rem;
   }
   .lang-switcher {
     border-left: none;
@@ -1821,13 +1859,12 @@ textarea.form-control {
     text-align: center;
   }
   .inquiry-float {
-    right: var(--space-md);
-    bottom: var(--space-md);
+    right: 12px;
+    bottom: 140px;
   }
   .inquiry-float__btn {
-    width: 44px;
-    height: 44px;
-    font-size: 1rem;
+    width: 46px;
+    height: 46px;
   }
   .page-banner__content {
     padding: var(--space-lg) 0;

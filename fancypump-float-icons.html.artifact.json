@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "kind": "html",
+  "title": "Fancy Pump — SVG Icon Update Applied",
+  "entry": "fancypump-float-icons.html",
+  "renderer": "html",
+  "status": "complete",
+  "exports": [
+    "html",
+    "pdf",
+    "zip"
+  ],
+  "createdAt": "2026-05-12T03:06:06.122Z",
+  "updatedAt": "2026-05-12T03:06:06.136Z",
+  "sourceSkillId": "blog-post",
+  "metadata": {
+    "identifier": "fancypump-float-icons",
+    "artifactType": "text/html",
+    "inferred": false
+  }
+}
